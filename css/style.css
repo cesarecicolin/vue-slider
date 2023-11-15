@@ -50,10 +50,10 @@
     object-fit: cover;
 }
 
-/* .thumb.active {
+.thumb.active {
     border: 2px solid #ccc;
     opacity: 1;
-} */
+}
 .selected{
     border: 2px solid #ccc;
     opacity: 1;
